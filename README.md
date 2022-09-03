@@ -6,11 +6,11 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=emami7495&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Mostafa Emami's Github Stats" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=emami7495&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Mostafa Emami's Github Stats" />
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=emami7495&theme=tokyonight&hide_border=false" alt="Mostafa Emami's GitHub Streaks" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=emami7495&theme=tokyonight&hide_border=false" alt="Mostafa Emami's GitHub Streaks" />
   
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emami7495&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emami7495&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
