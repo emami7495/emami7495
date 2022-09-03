@@ -1,5 +1,9 @@
-## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-emami-861570ab) 
+# Hi, I am Mostafa 👋
+
+[![Gmail Badge](https://img.shields.io/badge/-emami7495@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emami7495@gmail.com)](mailto:emami7495@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Iman%20Ghafoori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mostafa-emami-861570ab/)](https://linkedin.com/in/mostafa-emami-861570ab/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/emami7495/)](https://t.me/emami7495/)
+</p>
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=emami7495&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emami7495&theme=tokyonight&hide_border=false)<br/>
