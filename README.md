@@ -1,7 +1,7 @@
 # Hi, I am Mostafa 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-emami7495@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emami7495@gmail.com)](mailto:emami7495@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Iman%20Ghafoori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mostafa-emami-861570ab/)](https://linkedin.com/in/mostafa-emami-861570ab/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mostafa%20Emami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mostafa-emami-861570ab/)](https://linkedin.com/in/mostafa-emami-861570ab/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/emami7495/)](https://t.me/emami7495/)
 </p>
 # 📊 GitHub Stats :
