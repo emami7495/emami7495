@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A software engineer & mobile application developer</h3>
-- 🔭 I’m currently working on [Bookapo](bookapo.com)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-emami-861570ab) 
 # 💻 Tech Stack:
